@@ -1,4 +1,4 @@
-<img src="./type.gif" width="300" align="right" style="margin-top: -100px;">
+<img src="./type.gif" width="300" align="right" style="margin-bottom: -100px;">
 
 # 👋 Hi, I'm Mohammed Umar
 
