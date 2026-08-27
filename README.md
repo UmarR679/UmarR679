@@ -2,7 +2,7 @@
 
 ### 🤖 AI/ML Student | 💻 Coder | 🎨 Designer | 🎬 Animation Enthusiast
 
-<img src="./type.gif" width="300" height="300" align="right">
+<img src="./type.gif" width="300" align="right" style="position: relative; top: -15px;">
 
 I'm an AI/ML student who loves turning ideas into code, visuals, and interactive experiences.
 
