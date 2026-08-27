@@ -1,5 +1,4 @@
 <div align="right">
-  <br><br><br>
   <img src="./type.gif" width="300">
 </div>
 
