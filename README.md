@@ -1,6 +1,6 @@
-<table>
-<tr>
-<td width="65%" valign="center">
+<div align="center">
+
+<img src="./robot_cat_transparent_loop.gif" width="200" align="right">
 
 # 👋 Hi, I'm Mohammed Umar
 
@@ -8,14 +8,6 @@
 
 I love turning ideas into **code, visuals, and interactive experiences**.
 
-Currently exploring **AI/ML, software development, and creative technology** while building projects that solve real-world problems.
+Currently exploring **AI/ML, software development, and creative technology**.
 
-</td>
-
-<td width="35%" align="center">
-
-<img src="./robot_cat_transparent_loop.gif" width="250">
-
-</td>
-</tr>
-</table>
+</div>
