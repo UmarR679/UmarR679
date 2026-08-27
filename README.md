@@ -1,6 +1,4 @@
-<table style="border: none;">
-<tr style="border: none;">
-<td width="65%" valign="middle" style="border: none;">
+<img src="./type.gif" width="300" align="right">
 
 # 👋 Hi, I'm Mohammed Umar
 
@@ -8,14 +6,6 @@
 
 I'm an AI/ML student who loves turning ideas into code, visuals, and interactive experiences.
 
-My interests span **AI/ML, coding, graphic design, and animation**.
+My interests span **AI/ML, coding, graphic design, and animation.**
 
-</td>
-
-<td width="35%" align="center" style="border: none;">
-
-<img src="./type.gif" width="300">
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
