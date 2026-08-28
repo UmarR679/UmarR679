@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed Umar
 
-### 🤖 AI/ML Student | 💻 Coder | 🎨 Designer | 🎬 Animation Enthusiast
+🤖 AI/ML Student |💻 Coder |🎨 Designer|🎬 Animation Enthusiast
 
 <img src="./type.gif" width="300" align="right" style="position: relative; top: -300px;">
 
