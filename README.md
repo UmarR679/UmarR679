@@ -8,4 +8,4 @@
   </a>
 </p>
 
-<img src="./type.gif" width="270" align="right">
+<img src="./type.gif" width="500" align="center">
