@@ -1,5 +1,5 @@
 <p align="center">
-  <strong><font size="7">Mohammed Umar</font></strong>
+  <strong><font size="35">Mohammed Umar</font></strong>
 </p>
 
 <p align="center">
