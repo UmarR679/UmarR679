@@ -1,11 +1,11 @@
 <p align="center">
-  <strong><font size="6">Mohammed Umar</font></strong>
+  <strong><font size="7">Mohammed Umar</font></strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%A4%96%20AI%2FML%20Student%20%7C%20%F0%9F%92%BB%20Coder%20%7C%20%F0%9F%8E%A8%20Designer%20%7C%20%F0%9F%8E%AC%20Animation%20Enthusiast&font=Fira%20Code&center=true&width=800&height=45&color=00E5FF&vCenter=true&pause=1000&size=20" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML%20Student%20%7C%20Coder%20%7C%20Designer%20%7C%20Animation%20Enthusiast&font=Press%20Start%202P&center=true&width=1000&height=55&color=39FF14&vCenter=true&pause=1000&size=18" />
 </p>
 
-<img src="./type.gif" width="500" align="center">
+<p align="center">
+  <img src="./type.gif" width="400">
+</p>
