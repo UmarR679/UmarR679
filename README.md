@@ -1,10 +1,9 @@
-# 👋 Hi, I'm Mohammed Umar
-<img src="./type.gif" width="350" align="right" style="position: relative; top: -30px;">
+# Mohammed Umar
 
-### 🤖 AI/ML Student | 💻 Coder | 🎨 Designer |🎬 Animation Enthusiast
+<img src="./type.gif" width="300" align="right">
 
-I'm an AI/ML student who loves turning ideas into code, visuals, and interactive experiences.
-
-My interests span **AI/ML, coding, graphic design, and animation.**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=650&lines=%F0%9F%A4%96+AI%2FML+Student+%7C+%F0%9F%92%BB+Coder+%7C+%F0%9F%8E%A8+Designer+%7C+%F0%9F%8E%AC+Animation+Enthusiast" alt="Typing SVG" />
+</a>
 
 <br clear="right">
