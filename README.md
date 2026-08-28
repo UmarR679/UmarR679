@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mohammed Umar
-<img src="./type.gif" width="3000" align="right" style="position: relative; top: -30px;">
+<img src="./type.gif" width="400" align="right" style="position: relative; top: -30px;">
 
 ### 🤖 AI/ML Student | 💻 Coder | 🎨 Designer |🎬 Animation Enthusiast
 
