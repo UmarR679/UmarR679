@@ -16,13 +16,12 @@
 </h2>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+student+who+enjoys+turning+ideas+into+real+projects.&font=Silkscreen&center=false&width=900&height=35&color=FFFFFF&vCenter=true&size=14&duration=1&pause=999999" />
+  I'm an AI/ML student who enjoys turning ideas into real projects.
+  I like experimenting with machine learning, building useful applications,
+  and bringing a creative touch through design and animation.
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+enjoy+coding%2C+graphic+design%2C+animation%2C+and+building+things+that+feel+a+little+different.&font=Silkscreen&center=false&width=1000&height=35&color=FFFFFF&vCenter=true&size=14&duration=1&pause=999999" />
-</p>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Always+learning%2C+experimenting%2C+and+turning+random+ideas+into+working+projects.&font=Silkscreen&center=false&width=1050&height=35&color=FFFFFF&vCenter=true&size=14&duration=1&pause=999999" />
+  I enjoy coding, graphic design, animation, and exploring new technologies.
+  Always learning, building, and turning random ideas into working projects.
 </p>
