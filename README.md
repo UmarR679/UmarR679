@@ -119,17 +119,38 @@
 </h2>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com/?lines=FIXQUICK%20AI&font=Press%20Start%202P&center=false&width=450&height=40&color=00FF9C&vCenter=true&size=15&duration=1&pause=999999" />
+  <a href="YOUR_FIXQUICK_AI_LINK">
+    <img src="https://readme-typing-svg.demolab.com/?lines=FIXQUICK%20AI&font=Press%20Start%202P&center=false&width=450&height=40&color=00FF9C&vCenter=true&size=15&duration=1&pause=999999" />
+  </a>
 </p>
 
 <p>
-  An AI-powered troubleshooting assistant that helps users diagnose technical
-  problems and provides intelligent solutions based on their issues.
-  <br>
-  <a href="YOUR_FIXQUICK_AI_LINK">View Project →</a>
+  An AI-powered troubleshooting assistant designed to help users diagnose and
+  resolve common technical problems.
+</p>
+
+<ul>
+  <li>Analyzes user-reported issues and provides relevant troubleshooting guidance.</li>
+  <li>Uses AI to generate clear, step-by-step solutions for technical problems.</li>
+  <li>Designed with a user-friendly interface for quick and accessible problem solving.</li>
+</ul>
+
+<p>
+  <a href="YOUR_SIGNLINK_LINK">
+    <img src="https://readme-typing-svg.demolab.com/?lines=SIGNLINK&font=Press%20Start%202P&center=false&width=350&height=40&color=00FF9C&vCenter=true&size=15&duration=1&pause=999999" />
+  </a>
 </p>
 
 <p>
+  A computer-vision-based sign language platform that helps users learn and
+  translate sign language through interactive features.
+</p>
+
+<ul>
+  <li>Uses computer vision to recognize sign language gestures and convert them into text.</li>
+  <li>Includes interactive lessons and quizzes to support sign language learning.</li>
+  <li>Provides an accessible way to practice and understand commonly used signs.</li>
+</ul>
   <img src="https://readme-typing-svg.demolab.com/?lines=SIGNLINK&font=Press%20Start%202P&center=false&width=350&height=40&color=00FF9C&vCenter=true&size=15&duration=1&pause=999999" />
 </p>
 
