@@ -114,3 +114,28 @@
 </p>
 
 <br clear="right">
+<h2>
+  <img src="https://readme-typing-svg.demolab.com/?lines=MY%20PROJECTS&font=Press%20Start%202P&center=false&width=500&height=50&color=FF00A8&vCenter=true&size=20&duration=1&pause=999999" />
+</h2>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com/?lines=FIXQUICK%20AI&font=Press%20Start%202P&center=false&width=450&height=40&color=00FF9C&vCenter=true&size=15&duration=1&pause=999999" />
+</p>
+
+<p>
+  An AI-powered troubleshooting assistant that helps users diagnose technical
+  problems and provides intelligent solutions based on their issues.
+  <br>
+  <a href="YOUR_FIXQUICK_AI_LINK">View Project →</a>
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com/?lines=SIGNLINK&font=Press%20Start%202P&center=false&width=350&height=40&color=00FF9C&vCenter=true&size=15&duration=1&pause=999999" />
+</p>
+
+<p>
+  A sign language learning and translation platform that uses computer vision
+  to recognize signs and convert them into understandable text.
+  <br>
+  <a href="YOUR_SIGNLINK_LINK">View Project →</a>
+</p>
