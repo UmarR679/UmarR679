@@ -11,3 +11,16 @@
 
   <img src="./type.gif"  width="1000" height="400">
 </p>
+
+<h2>👾 About Me</h2>
+
+<p>
+  I'm an AI/ML student who enjoys turning ideas into real projects.
+  I like experimenting with machine learning, building useful applications,
+  and bringing a creative touch through design and animation.
+</p>
+
+<p>
+  I'm always learning, building, and breaking things to understand how they work.
+  Currently exploring AI/ML, computer vision, and full-stack development.
+</p>
