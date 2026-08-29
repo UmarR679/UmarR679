@@ -100,3 +100,6 @@
     </td>
   </tr>
 </table>
+<h2>
+  <img src="https://readme-typing-svg.demolab.com/?lines=CURRENTLY%20WORKING%20ON&font=Press%20Start%202P&center=false&width=700&height=50&color=FF00A8&vCenter=true&size=20&duration=1&pause=999999" />
+</h2>
