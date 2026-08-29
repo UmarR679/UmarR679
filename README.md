@@ -25,5 +25,5 @@
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
-  <img src="./type.gif"  width="1000" height="300">
+  <img src="./type.gif"  width="1000" height="400">
 </p>
