@@ -12,15 +12,18 @@
   <img src="./type.gif"  width="1000" height="400">
 </p>
 
-<h2>👾 About Me</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=ABOUT%20ME&font=Press%20Start%202P&center=true&width=500&height=50&color=FF00A8&vCenter=true&size=20&duration=1&pause=999999" />
+</h2>
 
-<p>
-  I'm an AI/ML student who enjoys turning ideas into real projects.
-  I like experimenting with machine learning, building useful applications,
-  and bringing a creative touch through design and animation.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+student+who+enjoys+turning+ideas+into+real+projects.&font=Silkscreen&center=true&width=900&height=35&color=FFFFFF&vCenter=true&size=14&duration=1&pause=999999" />
 </p>
 
-<p>
-  I'm always learning, building, and breaking things to understand how they work.
-  Currently exploring AI/ML, computer vision, and full-stack development.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+enjoy+coding%2C+graphic+design%2C+animation%2C+and+building+things+that+feel+a+little+different.&font=Silkscreen&center=true&width=1000&height=35&color=FFFFFF&vCenter=true&size=14&duration=1&pause=999999" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Always+learning%2C+experimenting%2C+and+turning+random+ideas+into+working+projects.&font=Silkscreen&center=true&width=1050&height=35&color=FFFFFF&vCenter=true&size=14&duration=1&pause=999999" />
 </p>
