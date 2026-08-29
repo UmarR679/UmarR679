@@ -28,3 +28,13 @@
 <h2>
   <img src="https://readme-typing-svg.demolab.com/?lines=WHAT%20I%20BUILD%20WITH&font=Press%20Start%202P&center=false&width=700&height=50&color=FF00A8&vCenter=true&size=20&duration=1&pause=999999" />
 </h2>
+
+  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+  </td>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+    <br>Javascript
