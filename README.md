@@ -151,6 +151,5 @@
   <li>Includes interactive lessons and quizzes to support sign language learning.</li>
   <li>Provides an accessible way to practice and understand commonly used signs.</li>
 </ul>
-  <img src="https://readme-typing-svg.demolab.com/?lines=SIGNLINK&font=Press%20Start%202P&center=false&width=350&height=40&color=00FF9C&vCenter=true&size=15&duration=1&pause=999999" />
-</p>
+
 
