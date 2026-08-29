@@ -103,3 +103,17 @@
 <h2>
   <img src="https://readme-typing-svg.demolab.com/?lines=CURRENTLY%20WORKING%20ON&font=Press%20Start%202P&center=false&width=700&height=50&color=FF00A8&vCenter=true&size=20&duration=1&pause=999999" />
 </h2>
+<h2>
+  <img src="https://readme-typing-svg.demolab.com/?lines=CURRENTLY%20WORKING%20ON&font=Press%20Start%202P&center=false&width=700&height=50&color=FF00A8&vCenter=true&size=20&duration=1&pause=999999" />
+</h2>
+
+<img src="./work.gif" width="220" align="right">
+
+<img src="https://readme-typing-svg.demolab.com/?lines=OPSPILOT&font=Press%20Start%202P&center=false&width=450&height=45&color=00FF9C&vCenter=true&size=18&duration=1&pause=999999" />
+
+<p>
+  An AI-powered AIOps platform that detects anomalies, analyzes incidents,
+  and helps identify probable root causes from logs and metrics.
+</p>
+
+<br clear="right">
