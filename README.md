@@ -25,3 +25,6 @@
   I enjoy coding, graphic design, animation, and exploring new technologies.
   Always learning, building, and turning random ideas into working projects.
 </p>
+<h2>
+  <img src="https://readme-typing-svg.demolab.com/?lines=WHAT%20I%20BUILD%20WITH&font=Press%20Start%202P&center=false&width=700&height=50&color=FF00A8&vCenter=true&size=20&duration=1&pause=999999" />
+</h2>
