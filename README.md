@@ -119,7 +119,7 @@
 </h2>
 
 <p>
-  <a href="YOUR_FIXQUICK_AI_LINK">
+  <a href="https://github.com/UmarR679/FixQuick-AI.git">
     <img src="https://readme-typing-svg.demolab.com/?lines=FIXQUICK%20AI&font=Press%20Start%202P&center=false&width=450&height=40&color=00FF9C&vCenter=true&size=15&duration=1&pause=999999" />
   </a>
 </p>
@@ -136,7 +136,7 @@
 </ul>
 
 <p>
-  <a href="YOUR_SIGNLINK_LINK">
+  <a href="https://github.com/UmarR679/SignLink.git">
     <img src="https://readme-typing-svg.demolab.com/?lines=SIGNLINK&font=Press%20Start%202P&center=false&width=350&height=40&color=00FF9C&vCenter=true&size=15&duration=1&pause=999999" />
   </a>
 </p>
@@ -154,9 +154,3 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=SIGNLINK&font=Press%20Start%202P&center=false&width=350&height=40&color=00FF9C&vCenter=true&size=15&duration=1&pause=999999" />
 </p>
 
-<p>
-  A sign language learning and translation platform that uses computer vision
-  to recognize signs and convert them into understandable text.
-  <br>
-  <a href="YOUR_SIGNLINK_LINK">View Project →</a>
-</p>
