@@ -12,7 +12,7 @@
   <img src="./type.gif"  width="1000" height="400">
 </p>
 <h2>
-  <img src="https://readme-typing-svg.demolab.com/?lines=ABOUT%20ME&font=Press%20Start%202P&center=false&width=500&height=50&color=FF00A8&vCenter=true&size=20&duration=1&pause=999999" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=ABOUT%20ME&font=Press%20Start%202P&center=true&width=500&height=50&color=FF00A8&vCenter=true&size=20&duration=1&pause=999999" />
 </h2>
 
 <p>
