@@ -5,7 +5,37 @@
 <p align="center" style="margin-top: 0; margin-bottom: 10px;">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML%20Student%20%7C%20Coder%20%7C%20Designer%20%7C%20Animation%20Enthusiast&font=Press%20Start%202P&center=true&width=1100&height=50&color=FF00A8&vCenter=true&pause=1000&size=20" />
 </p>
+<p align="center">
 
+  <!-- LinkedIn -->
+  <a href="YOUR_LINKEDIN_LINK">
+    <img width="32px"
+         alt="LinkedIn"
+         title="LinkedIn"
+         src="YOUR_BLUE_LINKEDIN_ICON_URL"/>
+  </a>
+
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+  <!-- Buy Me a Coffee -->
+  <a href="YOUR_BUYMEACOFFEE_LINK">
+    <img width="32px"
+         alt="Buy Me a Coffee"
+         title="Buy Me a Coffee"
+         src="YOUR_BLUE_COFFEE_ICON_URL"/>
+  </a>
+
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+  <!-- Gmail -->
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img width="32px"
+         alt="Gmail"
+         title="Gmail"
+         src="YOUR_BLUE_GMAIL_ICON_URL"/>
+  </a>
+
+</p>
 <p align="center" style="margin-top: 0;">
   </p>
 
