@@ -5,7 +5,15 @@
 <p align="center" style="margin-top: 0; margin-bottom: 10px;">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML%20Student%20%7C%20Coder%20%7C%20Designer%20%7C%20Animation%20Enthusiast&font=Press%20Start%202P&center=true&width=1100&height=50&color=FF00A8&vCenter=true&pause=1000&size=20" />
 </p>
+<a href="YOUR_RESUME_LINK">
+  <img src="https://img.shields.io/badge/RESUME-FF00A8?style=for-the-badge&labelColor=111111" alt="Resume">
+</a>
 
+&nbsp;&nbsp;
+
+<a href="YOUR_PORTFOLIO_LINK">
+  <img src="https://img.shields.io/badge/PORTFOLIO-FF00A8?style=for-the-badge&labelColor=111111" alt="Portfolio">
+</a>
 <p align="center" style="margin-top: 0;">
   </p>
 
