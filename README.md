@@ -7,39 +7,37 @@
 </p>
 <p align="center">
 
-  <!-- RESUME -->
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/RESUME-00FF9C?style=for-the-badge&labelColor=111111&logoColor=00FF9C" alt="Resume">
+<p align="center">
+
+  <a href="YOUR_RESUME_LINK" title="Resume">
+    <img src="https://img.shields.io/badge/RESUME-FF00A8?style=for-the-badge&labelColor=111111" height="28" alt="Resume">
   </a>
 
-  &nbsp;&nbsp;
+  &nbsp;
 
-  <!-- LINKEDIN -->
   <a href="YOUR_LINKEDIN_LINK" title="LinkedIn">
-    <img src="./linkedin.png" width="32" alt="LinkedIn">
+    <img src="./linkedin.png" width="28" height="28" alt="LinkedIn">
   </a>
 
-  &nbsp;&nbsp;
+  &nbsp;
 
-  <!-- BUY ME A COFFEE -->
   <a href="YOUR_BUYMEACOFFEE_LINK" title="Buy Me a Coffee">
-    <img src="./buymeacoffee.png" width="32" alt="Buy Me a Coffee">
+    <img src="./buymeacoffee.png" width="28" height="28" alt="Buy Me a Coffee">
   </a>
 
-  &nbsp;&nbsp;
+  &nbsp;
 
-  <!-- GMAIL -->
   <a href="mailto:YOUR_EMAIL@gmail.com" title="Gmail">
-    <img src="./gmail.png" width="32" alt="Gmail">
+    <img src="./gmail.png" width="28" height="28" alt="Gmail">
   </a>
 
-  &nbsp;&nbsp;
+  &nbsp;
 
-  <!-- PORTFOLIO -->
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FF00A8?style=for-the-badge&labelColor=111111&logoColor=FF00A8" alt="Portfolio">
+  <a href="YOUR_PORTFOLIO_LINK" title="Portfolio">
+    <img src="https://img.shields.io/badge/PORTFOLIO-FF00A8?style=for-the-badge&labelColor=111111" height="28" alt="Portfolio">
   </a>
 
+</p>
 </p>
   <img src="./type.gif"  width="1000" height="400">
 </p>
