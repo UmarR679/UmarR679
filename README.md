@@ -11,22 +11,22 @@
 <a href="https://drive.google.com/file/d/1j1MBV90WrV90tvMsJB_8aB71dsenGfsg/view?usp=drive_link" title="Resume">
 <img src="https://img.shields.io/badge/RESUME-FF00A8?style=for-the-badge&labelColor=111111" height="30" alt="Resume">
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/mohammed-umar-2005ok/" title="LinkedIn">
 <img src="./linkedin.png" width="30" height="30" alt="LinkedIn">
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://buymeacoffee.com/um9r" title="Buy Me a Coffee">
 <img src="./buymeacoffee.png" width="30" height="30" alt="Buy Me a Coffee">
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:muhammxdumxr4477@gmail.com" title="Gmail">
 <img src="./gmail.png" width="30" height="30" alt="Gmail">
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="YOUR_PORTFOLIO_LINK" title="Portfolio">
 <img src="https://img.shields.io/badge/PORTFOLIO-FF00A8?style=for-the-badge&labelColor=111111" height="30" alt="Portfolio">
