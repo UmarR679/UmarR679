@@ -5,40 +5,37 @@
 <p align="center" style="margin-top: 0; margin-bottom: 10px;">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML%20Student%20%7C%20Coder%20%7C%20Designer%20%7C%20Animation%20Enthusiast&font=Press%20Start%202P&center=true&width=1100&height=50&color=FF00A8&vCenter=true&pause=1000&size=20" />
 </p>
-<p align="center">
 
-<p align="center">
+<div align="center">
 
-  <a href="YOUR_RESUME_LINK" title="Resume">
-    <img src="https://img.shields.io/badge/RESUME-FF00A8?style=for-the-badge&labelColor=111111" height="28" alt="Resume">
-  </a>
+<a href="YOUR_RESUME_LINK" title="Resume">
+<img src="https://img.shields.io/badge/RESUME-FF00A8?style=for-the-badge&labelColor=111111" height="30" alt="Resume">
+</a>
+&nbsp;&nbsp;
 
-  &nbsp;
+<a href="YOUR_LINKEDIN_LINK" title="LinkedIn">
+<img src="./linkedin.png" width="30" height="30" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;
 
-  <a href="YOUR_LINKEDIN_LINK" title="LinkedIn">
-    <img src="./linkedin.png" width="28" height="28" alt="LinkedIn">
-  </a>
+<a href="YOUR_BUYMEACOFFEE_LINK" title="Buy Me a Coffee">
+<img src="./buymeacoffee.png" width="30" height="30" alt="Buy Me a Coffee">
+</a>
+&nbsp;&nbsp;
 
-  &nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com" title="Gmail">
+<img src="./gmail.png" width="30" height="30" alt="Gmail">
+</a>
+&nbsp;&nbsp;
 
-  <a href="YOUR_BUYMEACOFFEE_LINK" title="Buy Me a Coffee">
-    <img src="./buymeacoffee.png" width="28" height="28" alt="Buy Me a Coffee">
-  </a>
+<a href="YOUR_PORTFOLIO_LINK" title="Portfolio">
+<img src="https://img.shields.io/badge/PORTFOLIO-FF00A8?style=for-the-badge&labelColor=111111" height="30" alt="Portfolio">
+</a>
 
-  &nbsp;
+</div>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com" title="Gmail">
-    <img src="./gmail.png" width="28" height="28" alt="Gmail">
-  </a>
 
-  &nbsp;
-
-  <a href="YOUR_PORTFOLIO_LINK" title="Portfolio">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FF00A8?style=for-the-badge&labelColor=111111" height="28" alt="Portfolio">
-  </a>
-
-</p>
-</p>
+<p>
   <img src="./type.gif"  width="1000" height="400">
 </p>
 <h2>
