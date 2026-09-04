@@ -10,7 +10,7 @@
 <p align="center"> 
   <a href="https://drive.google.com/file/d/1j1MBV90WrV90tvMsJB_8aB71dsenGfsg/view?usp=drive_link">
   <img src="https://img.shields.io/badge/RESUME-F75C7E?style=for-the-badge&labelColor=111111" height="32" alt="Resume">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohammed-umar-2005ok/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>                                      &#8287;&#8287;&#8287;&#8287;&#8287; 
   <a href=""><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; 
