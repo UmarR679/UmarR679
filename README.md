@@ -8,9 +8,7 @@
 
 
 
-
-
-<p align="center">
+<div align="center">
 
 <a href="YOUR_RESUME_LINK" title="Resume"><img src="https://img.shields.io/badge/RESUME-FF00A8?style=for-the-badge&labelColor=111111" height="32" alt="Resume"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -22,8 +20,7 @@
 
 <a href="YOUR_PORTFOLIO_LINK" title="Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-FF00A8?style=for-the-badge&labelColor=111111" height="32" alt="Portfolio"></a>
 
-</p>
-
+</div>
 
 
 
