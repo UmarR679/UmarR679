@@ -14,7 +14,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="YOUR_LINKEDIN_LINK" title="LinkedIn">
-<img src="./linkedin.png" width="32" height="32" alt="LinkedIn">
+<img src="./linkedin.png" width="32" height="32" border="0" alt="LinkedIn">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
