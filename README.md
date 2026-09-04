@@ -8,10 +8,7 @@
 
 <div align="center">
 
-<a href="YOUR_RESUME_LINK" title="Resume">
-<img src="https://img.shields.io/badge/RESUME-FF00A8?style=for-the-badge&labelColor=111111&logoColor=FF00A8" height="32" alt="Resume">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
@@ -29,9 +26,6 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
-<a href="YOUR_PORTFOLIO_LINK" title="Portfolio">
-<img src="https://img.shields.io/badge/PORTFOLIO-FF00A8?style=for-the-badge&labelColor=111111&logoColor=FF00A8" height="32" alt="Portfolio">
-</a>
 
 </div>
 
