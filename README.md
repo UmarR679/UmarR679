@@ -7,19 +7,12 @@
 </p>
 
 
-
-<p align="center">
-
-<a href="YOUR_RESUME_LINK" title="Resume"><img src="https://img.shields.io/badge/RESUME-FF00A8?style=for-the-badge&labelColor=111111" height="32" alt="Resume"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/mohammed-umar-2005ok/" title="LinkedIn"><img src="https://i.imgur.com/yRpa1dQ.png" width="32" height="32" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="YOUR_DEVTO_LINK" title="Dev.to"><img src="https://i.imgur.com/mVm29vK.png" width="32" height="32" alt="Dev.to"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://buymeacoffee.com/um9r" title="Buy Me a Coffee"><img src="https://i.imgur.com/PpLeD3K.png" width="32" height="32" alt="Buy Me a Coffee"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="YOUR_PORTFOLIO_LINK" title="Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-FF00A8?style=for-the-badge&labelColor=111111" height="32" alt="Portfolio"></a>
-
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/mohammed-umar-2005ok/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>                                      &#8287;&#8287;&#8287;&#8287;&#8287; 
+  <a href=""><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; 
+  <a href="https://buymeacoffee.com/um9r"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a> 
+  &#8287;&#8287;&#8287;&#8287;&#8287; 
 </p>
 
 
