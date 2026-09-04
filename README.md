@@ -6,65 +6,25 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML%20Student%20%7C%20Coder%20%7C%20Designer%20%7C%20Animation%20Enthusiast&font=Press%20Start%202P&center=true&width=1100&height=50&color=FF00A8&vCenter=true&pause=1000&size=20" />
 </p>
 
-<div align="center">
 
-  <!-- RESUME -->
-  <a href="YOUR_RESUME_LINK" title="Resume">
-    <img
-      src="https://img.shields.io/badge/RESUME-FF00A8?style=for-the-badge&labelColor=111111"
-      height="32"
-      alt="Resume"
-    >
-  </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- LINKEDIN -->
-  <a href="https://www.linkedin.com/in/mohammed-umar-2005ok/" title="LinkedIn">
-    <img
-      width="32"
-      height="32"
-      alt="LinkedIn"
-      src="https://i.imgur.com/yRpa1dQ.png"
-    >
-  </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 
-  <!-- DEV.TO -->
-  <a href="YOUR_DEVTO_LINK" title="Dev.to">
-    <img
-      width="32"
-      height="32"
-      alt="Dev.to"
-      src="https://i.imgur.com/mVm29vK.png"
-    >
-  </a>
+<a href="YOUR_RESUME_LINK" title="Resume"><img src="https://img.shields.io/badge/RESUME-FF00A8?style=for-the-badge&labelColor=111111" height="32" alt="Resume"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mohammed-umar-2005ok/" title="LinkedIn"><img src="https://i.imgur.com/yRpa1dQ.png" width="32" height="32" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- BUY ME A COFFEE -->
-  <a href="https://buymeacoffee.com/um9r" title="Buy Me a Coffee">
-    <img
-      width="32"
-      height="32"
-      alt="Buy Me a Coffee"
-      src="https://i.imgur.com/PpLeD3K.png"
-    >
-  </a>
+<a href="YOUR_DEVTO_LINK" title="Dev.to"><img src="https://i.imgur.com/mVm29vK.png" width="32" height="32" alt="Dev.to"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://buymeacoffee.com/um9r" title="Buy Me a Coffee"><img src="https://i.imgur.com/PpLeD3K.png" width="32" height="32" alt="Buy Me a Coffee"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- PORTFOLIO -->
-  <a href="YOUR_PORTFOLIO_LINK" title="Portfolio">
-    <img
-      src="https://img.shields.io/badge/PORTFOLIO-FF00A8?style=for-the-badge&labelColor=111111"
-      height="32"
-      alt="Portfolio"
-    >
-  </a>
+<a href="YOUR_PORTFOLIO_LINK" title="Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-FF00A8?style=for-the-badge&labelColor=111111" height="32" alt="Portfolio"></a>
 
-</div>
+</p>
+
+
 
 
 
