@@ -10,16 +10,65 @@
 
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-umar-2005ok/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://buymeacoffee.com/um9r"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+<div align="center">
 
+  <!-- RESUME -->
+  <a href="https://drive.google.com/file/d/1j1MBV90WrV90tvMsJB_8aB71dsenGfsg/view?usp=drive_link" title="Resume">
+    <img
+      src="https://img.shields.io/badge/RESUME-FF00A8?style=for-the-badge&labelColor=111111"
+      height="32"
+      alt="Resume"
+    >
+  </a>
 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- LINKEDIN -->
+  <a href="https://www.linkedin.com/in/mohammed-umar-2005ok/" title="LinkedIn">
+    <img
+      width="32"
+      height="32"
+      alt="LinkedIn"
+      src="https://i.imgur.com/yRpa1dQ.png"
+    >
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- DEV.TO -->
+  <a href="YOUR_DEVTO_LINK" title="Dev.to">
+    <img
+      width="32"
+      height="32"
+      alt="Dev.to"
+      src="https://i.imgur.com/mVm29vK.png"
+    >
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- BUY ME A COFFEE -->
+  <a href="https://buymeacoffee.com/um9r" title="Buy Me a Coffee">
+    <img
+      width="32"
+      height="32"
+      alt="Buy Me a Coffee"
+      src="https://i.imgur.com/PpLeD3K.png"
+    >
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- PORTFOLIO -->
+  <a href="YOUR_PORTFOLIO_LINK" title="Portfolio">
+    <img
+      src="https://img.shields.io/badge/PORTFOLIO-FF00A8?style=for-the-badge&labelColor=111111"
+      height="32"
+      alt="Portfolio"
+    >
+  </a>
+
+</div>
 </div>
 
 
