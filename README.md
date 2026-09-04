@@ -5,65 +5,35 @@
 <p align="center" style="margin-top: 0; margin-bottom: 10px;">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML%20Student%20%7C%20Coder%20%7C%20Designer%20%7C%20Animation%20Enthusiast&font=Press%20Start%202P&center=true&width=1100&height=50&color=FF00A8&vCenter=true&pause=1000&size=20" />
 </p>
+
 <div align="center">
 
-  <!-- RESUME -->
-  <a href="https://drive.google.com/file/d/1j1MBV90WrV90tvMsJB_8aB71dsenGfsg/view?usp=drive_link" title="Resume">
-    <img
-      src="https://img.shields.io/badge/RESUME-FF00A8?style=for-the-badge&labelColor=111111"
-      height="30"
-      alt="Resume"
-    >
-  </a>
+<a href="YOUR_RESUME_LINK" title="Resume">
+  <img src="https://img.shields.io/badge/RESUME-FF00A8?style=for-the-badge&labelColor=111111" height="32" alt="Resume">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="YOUR_LINKEDIN_LINK" title="LinkedIn">
+  <img src="./linkedin.png" width="32" height="32" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- LINKEDIN -->
-  <a href="https://www.linkedin.com/in/mohammed-umar-2005ok/" title="LinkedIn">
-    <img
-      src="./linkedin.png"
-      width="30"
-      height="30"
-      alt="LinkedIn"
-    >
-  </a>
+<a href="YOUR_BUYMEACOFFEE_LINK" title="Buy Me a Coffee">
+  <img src="./buymeacoffee.png" width="32" height="32" alt="Buy Me a Coffee">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com" title="Email">
+  <img src="./gmail.png" width="32" height="32" alt="Email">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- BUY ME A COFFEE -->
-  <a href="https://buymeacoffee.com/um9r" title="Buy Me a Coffee">
-    <img
-      src="./buymeacoffee.png"
-      width="30"
-      height="30"
-      alt="Buy Me a Coffee"
-    >
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- EMAIL -->
-  <a href="mailto:muhammxdumxr4477@gmail.com?subject=Hello%20Mohammed%20Umar" title="Email Me">
-    <img
-      src="./gmail.png"
-      width="30"
-      height="30"
-      alt="Email"
-    >
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- PORTFOLIO -->
-  <a href="YOUR_PORTFOLIO_LINK" title="Portfolio">
-    <img
-      src="https://img.shields.io/badge/PORTFOLIO-FF00A8?style=for-the-badge&labelColor=111111"
-      height="30"
-      alt="Portfolio"
-    >
-  </a>
+<a href="YOUR_PORTFOLIO_LINK" title="Portfolio">
+  <img src="https://img.shields.io/badge/PORTFOLIO-FF00A8?style=for-the-badge&labelColor=111111" height="32" alt="Portfolio">
+</a>
 
 </div>
+
 
 <p>
   <img src="./type.gif"  width="1000" height="400">
