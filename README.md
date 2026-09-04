@@ -9,30 +9,31 @@
 <div align="center">
 
 <a href="YOUR_RESUME_LINK" title="Resume">
-  <img src="https://img.shields.io/badge/RESUME-FF00A8?style=for-the-badge&labelColor=111111" height="32" alt="Resume">
+<img src="https://img.shields.io/badge/RESUME-FF00A8?style=for-the-badge&labelColor=111111&logoColor=FF00A8" height="32" alt="Resume">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="YOUR_LINKEDIN_LINK" title="LinkedIn">
-  <img src="./linkedin.png" width="32" height="32" alt="LinkedIn">
+<img src="./linkedin.png" width="32" height="32" alt="LinkedIn">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="YOUR_BUYMEACOFFEE_LINK" title="Buy Me a Coffee">
-  <img src="./buymeacoffee.png" width="32" height="32" alt="Buy Me a Coffee">
+<img src="./buymeacoffee.png" width="32" height="32" alt="Buy Me a Coffee">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL@gmail.com" title="Email">
-  <img src="./gmail.png" width="32" height="32" alt="Email">
+<img src="./gmail.png" width="32" height="32" alt="Email">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="YOUR_PORTFOLIO_LINK" title="Portfolio">
-  <img src="https://img.shields.io/badge/PORTFOLIO-FF00A8?style=for-the-badge&labelColor=111111" height="32" alt="Portfolio">
+<img src="https://img.shields.io/badge/PORTFOLIO-FF00A8?style=for-the-badge&labelColor=111111&logoColor=FF00A8" height="32" alt="Portfolio">
 </a>
 
 </div>
+
 
 
 <p>
